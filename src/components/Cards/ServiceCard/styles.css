@@ -1,0 +1,34 @@
+.service-container {
+    width: 100%;
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-radius: 1em;
+    border: 1px solid #212123;
+    color: #212123;
+}
+.service-container .card-icon img {
+    width: 4em;
+    margin-bottom: 3em;
+}
+.service-container .card-details h5 {
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: start;
+}
+.service-container .card-details p {
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: justify;
+}
+.service-container a {
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: start;
+    text-decoration: underline;
+}

@@ -1,0 +1,26 @@
+.punchline-container {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.punchline-container .card-icon {
+    padding: 0.7em;
+    border-radius: 10px;
+    background-color: #212123;
+}
+.punchline-container .card-icon img {
+    width: 2em;
+}
+.punchline-container .card-details h5 {
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #212123;
+}
+.punchline-container .card-details p {
+    margin-bottom: 0;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #212123;
+}
