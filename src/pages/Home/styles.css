@@ -159,6 +159,9 @@
         align-items: center;
         flex-direction: column;
     }
+    .newsletter {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 767px) {
@@ -206,5 +209,8 @@
         display: flex;
         align-items: center;
         flex-direction: column;
+    }
+    .newsletter {
+        width: 100%;
     }
 }
