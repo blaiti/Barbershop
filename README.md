@@ -4,7 +4,7 @@
 
 Barbershop is a landing page for a barbershop saloon made with ReacrJS.
 
-![wallpaper](https://user-images.githubusercontent.com/32510139/181222985-edf4fc1f-5656-4c51-951e-eacd10a6357e.jpg)
+![Barbershop](https://user-images.githubusercontent.com/32510139/184295425-2226137c-dc95-4244-bbf0-53ce80216285.png)
 
 ## Table of Contents
 
